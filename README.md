@@ -12,6 +12,7 @@
 [https://frescowall.ru/ (Битрикс)](https://frescowall.ru/)  
 [https://krepko-nn.ru/ (Битрикс)](https://krepko-nn.ru/)  
 [https://new.lesovik76.ru/ (Битрикс)](https://new.lesovik76.ru/)  
+[https://vegavent.ru/ (Битрикс)](https://vegavent.ru/)  
 [https://kalachevo-uchastok.ru/ (MVC)](https://kalachevo-uchastok.ru/)  
 [https://твоиворота.рф/ (MVC)](https://твоиворота.рф/)  
 [https://эвакуаторспбдешево.рф/ (MVC)](https://эвакуаторспбдешево.рф/)  
