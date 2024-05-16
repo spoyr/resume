@@ -1,0 +1,45 @@
+.error-basket p {
+    color: red;
+    text-align: right;
+    margin-bottom: 0;
+    margin-top: 12px;
+    font-size: 16px;
+}
+
+.delivery-period {
+    margin-top: 14px;
+}
+
+.close_complect {
+    margin-top: 3px;
+    color: #07519e!important;
+    text-decoration: none;
+    display: none;
+    font-size: 14px;
+}
+
+.close_complect:hover {
+    text-decoration: underline;
+}
+
+.warning_complect_in_cart p {
+    margin-bottom: 0px;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+
+.status_zakaza .svg-icon {
+    position: absolute;
+    top: 0;
+    left: 12px;
+    margin: -10px 0px 0px;
+    background: skyblue;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 350px) {
+    .container_cart_item_detail_button .show_all_orders {
+        width: 95%;
+        margin: 7px auto;
+    }
+}
